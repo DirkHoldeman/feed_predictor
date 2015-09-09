@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+import tkinter as tk
+
+class Bin:
+
+class Barn:
+
+class Application(tk.Frame):
